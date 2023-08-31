@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image {
+    height: 50px;
+    width: 50px;
+}
+
+.company-name {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #5cacb5;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/large-buildings-with-dome-lights_1127-2223.jpg?w=740&t=st=1692893206~exp=1692893806~hmac=6a253395e1a95acf929f5c5b04880c7a0a717aff6789f1781282eeb91f419bbc");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.banner-section-heading {
+    font-size: 35px;
+    color: white;
+    font-family: Roboto;
+}
+
+.banner-section-paragraph {
+    font-size: 25px;
+    color: white;
+    font-family: Roboto;
+}
+
+.custom-button {
+    color: white;
+    background-color: #5cacb5;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-online-button {
+    background-color: #5cacb5;
+    height: 45px;
+    width: 130px;
+    border-radius: 8px;
+    color: white;
+    border-width: 0px;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    position: relative;
+    overflow: hidden;
+    display: block;
+}
+
+.wcu-card-image {
+    width: 77px;
+    height: 80px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-section {
+    background-color: white;
+}
+
+.products-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.Progressive-section {
+    background-color: #f9fbfe;
+}
+
+.Progressive-section-img {
+    width: 270px;
+    height: 220px;
+}
+
+.Progressive-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.Progressive-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+.life-section {
+    background-color: white;
+}
+
+.life-section-img {
+    width: 270px;
+}
+
+.life-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.life-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.Opportunities-section {
+    background-color: #ebf2f5;
+}
+
+.Opportunities-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.Opportunities-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.Opportunities-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #5cacb5;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 10px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: white;
+    font-size: 23px;
+}
+
+.outer-path {
+    height: 60px;
+    width: 60px;
+
+}
+
+.copy-right {
+    font-size: 12px;
+    text-align: center;
+}
+
+.line {
+    border-radius: 5px;
+    border-width: 5px;
+    width: 100px;
+    border-color: black;
+}
